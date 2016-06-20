@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context path="/jdbcTask3" docBase="jdbcTask3" reloadable="true">
+   <ResourceLink 
+       name="jdbc/mysql/jdbcTask3_Resource" 
+       global="jdbc/mysql/jdbcTask3_Resource"
+       type="javax.sql.DataSource"/>
+</Context>
